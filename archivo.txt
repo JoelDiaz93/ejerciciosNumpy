@@ -1,0 +1,3 @@
+Tiempo matriz 10x10: 0.001
+Tiempo matriz 100x100: 0.001
+Tiempo matriz 1000x1000: 1.0408
